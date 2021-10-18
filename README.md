@@ -1,14 +1,10 @@
-# Project Name
+# Rock Paper Scissors Game with Python!
 
 TODO: Write a project description
 
 ## Installation
 
 TODO: Describe the installation process
-
-## Usage
-
-TODO: Write usage instructions
 
 ## Contributing
 
@@ -28,4 +24,4 @@ TODO: Write credits
 
 ## License
 
-TODO: Write license
+MIT
